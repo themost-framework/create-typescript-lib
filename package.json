@@ -1,7 +1,7 @@
 {
-  "name": "@themost/create-lib",
+  "name": "@themost/create-typescript-lib",
   "version": "1.0.0",
-  "description": "@themost-framework template for creating a library",
+  "description": "Project template for creating a library with typescript+rollup",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.js",
